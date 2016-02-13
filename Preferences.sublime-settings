@@ -1,0 +1,12 @@
+{
+	"caret_style": "blink",
+	"font_size": 11,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"JavaScript",
+		"Vintage"
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
+}

@@ -1,0 +1,9 @@
+[
+	{ "keys": ["ctrl+j"], "command": "insert", "args": {"characters": "\n"} },
+	{ "keys": ["alt+x"], "command": "show_overlay", "args": {"overlay": "command_palette"} }, 
+  { "keys": ["ctrl+;"], "command": "ace_jump_char" },
+  {"keys": ["ctrl+t"], "command": "sbp_set_mark"},
+  {"keys": ["ctrl+v"], "command": "paste"},
+  // macros
+  { "keys": ["ctrl+alt+o"], "command": "run_macro_file", "args": {"file": "Packages/User/consoleout.sublime-macro"} }
+]

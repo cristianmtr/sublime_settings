@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AceJump",
+		"AutoCompleteJS",
+		"Better JavaScript",
+		"Emmet",
+		"JavaScript Completions",
+		"JavaScript Ultimate",
+		"Node Completions",
+		"Package Control",
+		"sublemacspro",
+		"SyntaxFold"
+	]
+}
