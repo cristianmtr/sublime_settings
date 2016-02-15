@@ -1,5 +1,7 @@
 {
 	"caret_style": "blink",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
 	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
@@ -9,16 +11,8 @@
 	"Markdown",
 	"Vintage"
 	],
+	"save_on_focus_lost": true,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
-	    // Set to true to removing trailing white space on save
-  "trim_trailing_white_space_on_save": true,
-
-    // Set to true to ensure the last line of the file ends in a newline
-    // character when saving
-  "ensure_newline_at_eof_on_save": true,
-
-    // Set to true to automatically save files when switching to a different file
-    // or application
-   "save_on_focus_lost": true,
-  }
+	"trim_trailing_white_space_on_save": true
+}
