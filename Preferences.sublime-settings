@@ -6,10 +6,10 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-	"Better JavaScript",
-	"JavaScript",
-	"Markdown",
-	"Vintage"
+		"Better JavaScript",
+		"JavaScript",
+		"Markdown",
+		"Vintage"
 	],
 	"save_on_focus_lost": true,
 	"tab_size": 2,
