@@ -4,7 +4,9 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"Better JavaScript",
 		"JavaScript",
+		"Markdown",
 		"Vintage"
 	],
 	"tab_size": 2,

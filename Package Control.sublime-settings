@@ -6,13 +6,10 @@
 	"installed_packages":
 	[
 		"AceJump",
-		"AutoCompleteJS",
-		"Better JavaScript",
 		"Emmet",
-		"JavaScript Completions",
-		"JavaScript Ultimate",
+		"InsertDate",
 		"JavaScriptNext - ES6 Syntax",
-		"Node Completions",
+		"MarkdownEditing",
 		"Package Control",
 		"sublemacspro",
 		"SyntaxFold"
