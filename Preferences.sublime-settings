@@ -4,11 +4,21 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"Better JavaScript",
-		"JavaScript",
-		"Markdown",
-		"Vintage"
+	"Better JavaScript",
+	"JavaScript",
+	"Markdown",
+	"Vintage"
 	],
 	"tab_size": 2,
-	"translate_tabs_to_spaces": true
-}
+	"translate_tabs_to_spaces": true,
+	    // Set to true to removing trailing white space on save
+  "trim_trailing_white_space_on_save": true,
+
+    // Set to true to ensure the last line of the file ends in a newline
+    // character when saving
+  "ensure_newline_at_eof_on_save": true,
+
+    // Set to true to automatically save files when switching to a different file
+    // or application
+   "save_on_focus_lost": true,
+  }
