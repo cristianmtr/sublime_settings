@@ -5,6 +5,7 @@
   {"keys": ["ctrl+t"], "command": "sbp_set_mark"},
   {"keys": ["ctrl+v"], "command": "paste"},
   {"keys": ["ctrl+c"], "command": "sbp_kill_region", "args": {"is_copy": true}, "context": [ {"key": "sbp_use_alt_bindings"}]},
+  { "keys": ["ctrl+x","ctrl+n"], "command": "new_file" },
   // macros
   { "keys": ["ctrl+alt+o"], "command": "run_macro_file", "args": {"file": "Packages/User/consoleout.sublime-macro"} },
   // date
