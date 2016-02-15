@@ -2,3 +2,5 @@
 *.last-run
 *.merged-ca-bundle
 *.user-ca-bundle
+*Windows*
+*.system-ca-bundle
