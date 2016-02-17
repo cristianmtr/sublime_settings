@@ -32,4 +32,9 @@
   // any symbol in project
   { "keys": ["alt+shift+;"], "command": "goto_symbol_in_project" },
 
+  // ctrl tab next tab
+  // ctrl shift tab previous
+  { "keys": ["ctrl+tab"], "command": "next_view" },
+  { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+
 ]
