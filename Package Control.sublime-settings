@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AceJump",
+		"DictionaryAutoComplete",
 		"Emmet",
 		"InsertDate",
 		"JavaScriptNext - ES6 Syntax",
