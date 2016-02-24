@@ -3,7 +3,7 @@
 	"caret_extra_bottom": 3,
 	"caret_extra_top": 3,
 	"caret_style": "wide",
-	"draw_centered": true,
+	"draw_centered": false,
 	"extensions":
 	[
 		"md"
