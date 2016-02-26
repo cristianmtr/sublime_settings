@@ -6,7 +6,8 @@
 	"draw_centered": false,
 	"extensions":
 	[
-		"md"
+		"md",
+		"txt"
 	],
 	"highlight_line": true,
 	"line_numbers": true,
