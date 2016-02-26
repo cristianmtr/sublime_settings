@@ -7,7 +7,9 @@
 	"extensions":
 	[
 		"md",
-		"txt"
+		"txt",
+		"markdown",
+		"mdown"
 	],
 	"highlight_line": true,
 	"line_numbers": true,
@@ -31,13 +33,13 @@
 		"md026": ".,;:!",
 		"md029": "any"
 	},
-	"mde.list_indent_auto_switch_bullet": true,
-	"mde.list_indent_bullets":
-	[
-		"-",
-		"-",
-		"-"
-	],
+	"mde.list_indent_auto_switch_bullet": false,
+	// "mde.list_indent_bullets":
+	// [
+	// 	"-",
+	// 	"-",
+	// 	"-"
+	// ],
 	"mde.match_header_hashes": true,
 	"rulers":
 	[
@@ -45,6 +47,6 @@
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true,
-	"wrap_width": 80
+	"word_wrap": false,
+	// "wrap_width": 80
 }
