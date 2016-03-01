@@ -54,7 +54,7 @@
     /*
         Enable highlighting. This enables codehilite extension if not already enabled.
     */
-    "enable_highlight": false,
+    "enable_highlight": true,
 
     /*
         Pygments support for syntax highlighting.  Controls whether codehilite extension
