@@ -38,4 +38,6 @@
   { "keys": ["ctrl+tab"], "command": "next_view" },
   { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
 
+  { "keys": ["ctrl+shift+l"], "command": "split_selection_into_lines" },
+
 ]
