@@ -6,16 +6,12 @@
 	"installed_packages":
 	[
 		"AceJump",
-		"DictionaryAutoComplete",
 		"Emmet",
 		"InsertDate",
 		"JavaScriptNext - ES6 Syntax",
 		"Markdown Preview",
 		"MarkdownEditing",
-		"Node Completions",
-		"Nodejs",
 		"Package Control",
-		"Python Completions",
 		"Restructured Text (RST) Snippets",
 		"RestructuredText Improved",
 		"SFTP",
