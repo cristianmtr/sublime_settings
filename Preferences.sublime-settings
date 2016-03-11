@@ -2,17 +2,16 @@
 	"auto_complete_cycle": true,
 	"bold_folder_labels": true,
 	"caret_style": "blink",
-	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Eiffel.tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": true,
 	"fallback_encoding": "UTF-8",
-	"font_size": 11,
+	"font_size": 13,
 	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Better JavaScript",
-		"JavaScript",
 		"Markdown",
 		"RestructuredText",
 		"Vintage"
@@ -22,5 +21,5 @@
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": false,
-	"word_wrap": "true"
+	"word_wrap": true
 }
