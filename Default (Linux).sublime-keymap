@@ -7,6 +7,8 @@
   {"keys": ["ctrl+c"], "command": "sbp_kill_region", "args": {"is_copy": true}, "context": [ {"key": "sbp_use_alt_bindings"}]},
   { "keys": ["ctrl+x","ctrl+n"], "command": "new_file" },
   { "keys": ["ctrl+x","ctrl+o"], "command": "prompt_open_file" },
+  { "keys": ["ctrl+a"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+  { "keys": ["ctrl+e"], "command": "move_to", "args": {"to": "eol", "extend": false} },
   // sel entire line at point
   { "keys": ["ctrl+alt+l"], "command": "expand_selection", "args": {"to": "line"} },
    // sel entire word at point
