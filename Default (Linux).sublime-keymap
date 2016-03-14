@@ -26,6 +26,7 @@
   { "keys": ["end"], "command": "move_to", "args": {"to": "eol", "extend": false} },
   // find expand
   { "keys": ["ctrl+q"], "command": "find_under_expand" },
+  { "keys": ["ctrl+c", "ctrl+q"], "command": "find_under_expand_skip" },
   // goto func definition
   { "keys": ["alt+'"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
   // jump to line no
