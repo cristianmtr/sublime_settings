@@ -1,0 +1,3 @@
+{
+    "shell_cmd": "pandoc --from markdown --to mediawiki -o $file.wiki $file"
+}
