@@ -1,4 +1,8 @@
 {
+	"added_words":
+	[
+		"jpg"
+	],
 	"auto_complete_cycle": true,
 	"bold_folder_labels": true,
 	"caret_style": "blink",
