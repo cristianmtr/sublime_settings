@@ -6,11 +6,13 @@
 	"installed_packages":
 	[
 		"AceJump",
+		"AutoDocstring",
 		"Emmet",
 		"InsertDate",
 		"Markdown Preview",
 		"MarkdownEditing",
 		"Package Control",
+		"Python Flake8 Lint",
 		"Restructured Text (RST) Snippets",
 		"RestructuredText Improved",
 		"SFTP",
