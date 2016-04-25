@@ -28,6 +28,9 @@
   { "keys": ["ctrl+tab"], "command": "next_view" },
   { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
 
+  // center window with CTRL L
+  { "keys": ["ctrl+l"], "command": "show_at_center" },
+
   // REMINDERS HERE
   // find next instance of
   { "keys": ["ctrl+d"], "command": "find_under_expand" },
@@ -38,5 +41,9 @@
 
    // sel entire word at point
   { "keys": ["ctrl+alt+w"], "command": "expand_selection", "args": {"to": "word"} },
+
+  // jump back to last edit, or forward
+  { "keys": ["alt+-"], "command": "jump_back" },
+  { "keys": ["alt+shift+-"], "command": "jump_forward" },
 
 ]
