@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AceJump",
+		"Anaconda",
 		"AutoDocstring",
 		"Emmet",
 		"InsertDate",
