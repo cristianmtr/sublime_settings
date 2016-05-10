@@ -40,7 +40,7 @@
 	// 	"-",
 	// 	"-"
 	// ],
-	"mde.match_header_hashes": true,
+	"mde.match_header_hashes": false,
 	"rulers":
 	[
 	],
