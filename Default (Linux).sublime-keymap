@@ -46,4 +46,5 @@
   { "keys": ["alt+-"], "command": "jump_back" },
   { "keys": ["alt+shift+-"], "command": "jump_forward" },
 
+  { "keys": ["ctrl+space"], "command": "auto_complete" }, 
 ]
