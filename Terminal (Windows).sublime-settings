@@ -1,4 +1,4 @@
 {
-  "terminal": "ConEmu.exe",
+  "terminal": "cmd.exe",
 }
 
