@@ -47,4 +47,7 @@
   { "keys": ["alt+shift+-"], "command": "jump_forward" },
 
   { "keys": ["ctrl+space"], "command": "auto_complete" }, 
+  // title case
+
+  { "keys": ["ctrl+k", "ctrl+t"], "command": "title_case" },
 ]

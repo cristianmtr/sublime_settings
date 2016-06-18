@@ -1,7 +1,9 @@
 {
 	"added_words":
 	[
-		"jpg"
+		"jpg",
+		"bcrypt",
+		"conclusory"
 	],
 	"auto_complete_cycle": true,
 	"bold_folder_labels": true,
@@ -11,7 +13,7 @@
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": false,
 	"fallback_encoding": "UTF-8",
-	"font_size": 11,
+	"font_size": 10,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -19,6 +21,16 @@
 		"Markdown",
 		"RestructuredText",
 		"Vintage"
+	],
+	"ignored_words":
+	[
+		"frontend",
+		"lastmodified",
+		"memberid",
+		"projectid",
+		"projectname",
+		"taskid",
+		"width=80"
 	],
 	"save_on_focus_lost": true,
 	"show_encoding": true,
