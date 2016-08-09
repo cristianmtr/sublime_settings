@@ -12,7 +12,7 @@
 		"markdown",
 		"mdown"
 	],
-	"highlight_line": true,
+	"highlight_line": false,
 	"line_numbers": true,
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,

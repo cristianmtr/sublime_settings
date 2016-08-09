@@ -139,7 +139,7 @@
     /*
         Enables a post process to inject header ids to ensure hrefs to headers work
     */
-    "github_inject_header_ids": false,
+    "github_inject_header_ids": true,
 
     /*
         Uses an OAuth token when parsing markdown with GitHub API. To create one for Markdown Preview, see https://help.github.com/articles/creating-an-oauth-token-for-command-line-use.
@@ -234,7 +234,7 @@
             base64: coverts the local file to base64 and embeds it in the HTML
             none: does nothing
     */
-    "image_path_conversion": "absolute",
+    "image_path_conversion": "base64",
 
     /*
         Sets how file paths are handled.
@@ -244,7 +244,7 @@
                         HTML output
             none: does nothing
     */
-    "file_path_conversions": "absolute",
+    "file_path_conversions": "relative",
 
     /*
         Sets how multimarkdown critic marks are handled.
