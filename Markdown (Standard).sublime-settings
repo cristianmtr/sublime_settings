@@ -1,5 +1,5 @@
 {
-	"color_scheme": "Packages/MarkdownEditing/MarkdownEditor.tmTheme",
+	"color_scheme":"Packages/Theme - Afterglow/Afterglow-markdown.tmTheme",
 	"auto_match_enabled": true,
 	"caret_extra_bottom": 3,
 	"caret_extra_top": 3,
@@ -7,10 +7,10 @@
 	"draw_centered": false,
 	"extensions":
 	[
-		"md",
 		"txt",
 		"markdown",
-		"mdown"
+		"mdown",
+		"md"
 	],
 	"highlight_line": false,
 	"line_numbers": true,
@@ -35,12 +35,6 @@
 		"md029": "any"
 	},
 	"mde.list_indent_auto_switch_bullet": false,
-	// "mde.list_indent_bullets":
-	// [
-	// 	"-",
-	// 	"-",
-	// 	"-"
-	// ],
 	"mde.match_header_hashes": false,
 	"rulers":
 	[
@@ -49,5 +43,5 @@
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": false,
 	"word_wrap": true,
-	"wrap_width": 80,
+	"wrap_width": 80
 }
