@@ -1,0 +1,31 @@
+[
+    {
+        "class": "tabset_control",
+        "tab_height": 35
+    },
+    {
+        "class": "tab_label",
+        "settings": [
+            "highlight_modified_tabs"
+        ],
+        "parents": [
+            {
+                "class": "tab_control",
+                "attributes": [
+                    "dirty"
+                ]
+            }
+        ],
+        "fg": [
+            120,
+            170,
+            250
+        ]         
+    },
+    {
+        "class": "sidebar_label",
+        "color": [0, 0, 0],
+        "font.bold": false,
+        "font.size": 14
+    },
+]
