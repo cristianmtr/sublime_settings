@@ -1,0 +1,3 @@
+{
+    "shell_cmd": "rst2html.py \"$file\" > \"$file.html\""
+}
