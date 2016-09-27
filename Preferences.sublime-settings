@@ -3,18 +3,19 @@
 	[
 		"jpg",
 		"bcrypt",
-		"conclusory"
+		"conclusory",
+		"validator"
 	],
 	"auto_complete_cycle": true,
 	"bold_folder_labels": true,
 	"caret_style": "blink",
 	"color_inactive_tabs": true,
-	"color_scheme": "Packages/User/Monokai Soda.tmTheme",
+	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": false,
 	"fallback_encoding": "UTF-8",
-	"font_size": 14,
+	"font_size": 13,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -44,5 +45,6 @@
 	"trim_trailing_white_space_on_save": false,
 	"update_check": false,
 	"word_wrap": true,
-	"wrap_width": 80
+	"wrap_width": 80,
+    "shift_tab_unindent": true
 }
