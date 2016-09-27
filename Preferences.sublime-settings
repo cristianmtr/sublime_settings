@@ -4,7 +4,7 @@
 		"jpg",
 		"bcrypt",
 		"conclusory",
-		"validator"
+		"validator",
 		"maluses"
 	],
 	"auto_complete_cycle": true,
@@ -33,7 +33,6 @@
 		"projectid",
 		"projectname",
 		"taskid",
-		"width=80"
 	],
 	"preview_on_click": false,
 	"save_on_focus_lost": true,
