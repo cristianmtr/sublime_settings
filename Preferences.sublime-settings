@@ -5,6 +5,7 @@
 		"bcrypt",
 		"conclusory",
 		"validator"
+		"maluses"
 	],
 	"auto_complete_cycle": true,
 	"bold_folder_labels": true,
