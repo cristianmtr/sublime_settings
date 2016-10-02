@@ -50,4 +50,7 @@
   // title case
 
   { "keys": ["ctrl+k", "ctrl+t"], "command": "title_case" },
+  
+  // make alt + / insert best completion. avoid clashes with tab and enter
+  { "keys": ["alt+/"], "command": "insert_best_completion"}
 ]
