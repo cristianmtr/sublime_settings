@@ -12,7 +12,7 @@
 		"mdown",
 		"md"
 	],
-	"highlight_line": false,
+	"highlight_line": true,
 	"line_numbers": true,
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
