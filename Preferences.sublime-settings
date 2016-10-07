@@ -11,12 +11,12 @@
 	"bold_folder_labels": true,
 	"caret_style": "blink",
 	"color_inactive_tabs": true,
-	"color_scheme": "Packages/User/Espresso Soda.tmTheme",
+	// "color_scheme": "Packages/User/Espresso Soda.tmTheme",
 	"default_encoding": "UTF-8",
 	"default_line_ending": "unix",
 	"ensure_newline_at_eof_on_save": false,
 	"fallback_encoding": "UTF-8",
-	"font_size": 15,
+	"font_size": 13,
 	"highlight_line": true,
 	"ignored_packages":
 	[
@@ -41,10 +41,14 @@
 	"soda_classic_tabs": true,
 	"soda_folder_icons": true,
 	"tab_size": 4,
-	"theme": "SoDaReloaded Light.sublime-theme",
+	// "theme": "SoDaReloaded Light.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": false,
 	"update_check": false,
 	"word_wrap": true,
-	"wrap_width": 80
+	"wrap_width": 80,
+	"theme": "ayu-light.sublime-theme",
+	"color_scheme": "Packages/ayu/ayu-light.tmTheme",
+	"ui_separator":       true, // separators between panels
+	"ui_font_size_small": true // smaller UI font size(sidebar, statusbar etc)
 }
