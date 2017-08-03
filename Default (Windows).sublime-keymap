@@ -1,0 +1,57 @@
+[
+  { "keys": ["alt+x"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+  { "keys": ["ctrl+;"], "command": "ace_jump_char" },
+  {"keys": ["ctrl+t"], "command": "sbp_set_mark"},
+  {"keys": ["ctrl+v"], "command": "paste"},
+  {"keys": ["ctrl+c"], "command": "sbp_kill_region", "args": {"is_copy": true}, "context": [ {"key": "sbp_use_alt_bindings"}]},
+  { "keys": ["ctrl+n"], "command": "new_file" },
+  { "keys": ["ctrl+o"], "command": "prompt_open_file" },
+  // macros
+  { "keys": ["ctrl+alt+o"], "command": "run_macro_file", "args": {"file": "Packages/User/consoleout.sublime-macro"} },
+  // page up pagedown replacement
+  { "keys": ["ctrl+alt+p"], "command": "move", "args": {"by": "pages", "forward": false} },
+  { "keys": ["ctrl+alt+n"], "command": "move", "args": {"by": "pages", "forward": true} },
+  // something wrong with home and end
+  { "keys": ["home"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+  { "keys": ["end"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+  // goto func definition
+  { "keys": ["alt+'"], "command": "show_overlay", "args": {"overlay": "goto", "text": "@"} },
+  // jump to line no
+  { "keys": ["ctrl+g"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+  // jump to variable name in file
+  { "keys": ["alt+;"], "command": "show_overlay", "args": {"overlay": "goto", "text": "#"} },
+  // any symbol in project
+  { "keys": ["alt+shift+;"], "command": "goto_symbol_in_project" },
+
+  // ctrl tab next tab
+  // ctrl shift tab previous
+  { "keys": ["ctrl+tab"], "command": "next_view" },
+  { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
+
+  // center window with CTRL L
+  { "keys": ["ctrl+l"], "command": "show_at_center" },
+
+  // REMINDERS HERE
+  // find next instance of
+  { "keys": ["ctrl+d"], "command": "find_under_expand" },
+  { "keys": ["ctrl+k", "ctrl+d"], "command": "find_under_expand_skip" },
+
+  // sel entire line at point
+  { "keys": ["ctrl+alt+l"], "command": "expand_selection", "args": {"to": "line"} },
+
+   // sel entire word at point
+   { "keys": ["ctrl+alt+w"], "command": "expand_selection", "args": {"to": "word"} },
+
+  // jump back to last edit, or forward
+  { "keys": ["alt+-"], "command": "jump_back" },
+  { "keys": ["alt+shift+-"], "command": "jump_forward" },
+
+  { "keys": ["ctrl+space"], "command": "auto_complete" }, 
+  // title case
+
+  { "keys": ["ctrl+k", "ctrl+t"], "command": "title_case" },
+  
+  // make alt + / insert best completion. avoid clashes with tab and enter
+  { "keys": ["alt+/"], "command": "insert_best_completion"},
+  {"keys": ["alt+shift+f"], "command": "reindent", "args": {"single_line": false}}
+]
